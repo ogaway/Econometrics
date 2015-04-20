@@ -21,8 +21,10 @@ PypeRというライブラリを使うことでPythonでRをはしらせるこ�
 第２章（計量経済学とは）  
 　　同じく計量経済学についての概観のためコードは必要とされない  
 第３章（単純回帰分析）  
+　　・[例題3.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example3_1.py)  
 第４章（回帰式の説明力と仮設検定）  
 第５章（自己相関）  
+　　・[例題5.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example5_2.py)  
 第６章（不均一分散）  
 第７章（重回帰分析）  
 第８章（多重共線性と変数選択）  
