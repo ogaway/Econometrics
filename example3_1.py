@@ -34,4 +34,4 @@ fm = r.get('fm$fitted.values')
 #散布図、回帰直線を描く
 plt.scatter(data["X"], data["Y"])
 plt.plot(data["X"], fm, 'k--')
-plt.title('PypeR Sample')
+plt.title('Example3-1')

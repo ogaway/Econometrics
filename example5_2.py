@@ -36,4 +36,4 @@ fm = r.get('fm$fitted.values')
 #散布図、回帰直線を描く
 plt.scatter(data["X"], data["Y"])
 plt.plot(data["X"], fm, 'k--')
-plt.title('Auto Correlation')
+plt.title('Example5-2')
