@@ -26,7 +26,7 @@ PypeRというライブラリを使うことでPythonでRをはしらせるこ�
 第５章（自己相関）  
 　　・[例題5.1](http://nbviewer.ipython.org/github/yoshimasaogawa/Econometrics/blob/master/example5_1.ipynb)  
 　　・[例題5.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example5_2.py)  
-第６章（不均一分散） 
+第６章（不均一分散）  
 　　・[まとめ](http://nbviewer.ipython.org/github/yoshimasaogawa/Econometrics/blob/master/Example6.ipynb)  
 　　・[例題6.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_1.py)  
 　　・[例題6.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_2.py)  
