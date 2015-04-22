@@ -27,11 +27,12 @@ PypeRというライブラリを使うことでPythonでRをはしらせるこ�
 　　・[例題5.1](http://nbviewer.ipython.org/github/yoshimasaogawa/Econometrics/blob/master/example5_1.ipynb)  
 　　・[例題5.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example5_2.py)  
 第６章（不均一分散）  
-　　・[まとめ](http://nbviewer.ipython.org/github/yoshimasaogawa/Econometrics/blob/master/Example6.ipynb)  
-　　・[例題6.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_1.py)  
-　　・[例題6.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_2.py)  
-　　・[例題6.3](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_3.py)  
-　　・[例題6.4](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_4.py)  
+　　[まとめ](http://nbviewer.ipython.org/github/yoshimasaogawa/Econometrics/blob/master/Example6.ipynb)  
+　　各例題コード  
+　　　・[例題6.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_1.py)  
+　　　・[例題6.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_2.py)  
+　　　・[例題6.3](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_3.py)  
+　　　・[例題6.4](https://github.com/yoshimasaogawa/Econometrics/blob/master/example6_4.py)  
 第７章（重回帰分析）  
 第８章（多重共線性と変数選択）  
 第９章（構造変化、理論の妥当性のテスト）  
