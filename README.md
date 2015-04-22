@@ -24,7 +24,8 @@ PypeRというライブラリを使うことでPythonでRをはしらせるこ�
 　　・[例題3.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example3_1.py)  
 第４章（回帰式の説明力と仮設検定）  
 第５章（自己相関）  
-　　・[例題5.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example5_1.py)  
+　　・[例題5.1](http://nbviewer.ipython.org/github/yoshimasaogawa/Econometrics/blob/master/example5_1.ipynb)  
+　　・[例題5.1](https://github.com/yoshimasaogawa/Econometrics/blob/master/example5_1.ipynb)  
 　　・[例題5.2](https://github.com/yoshimasaogawa/Econometrics/blob/master/example5_2.py)  
 第６章（不均一分散）  
 第７章（重回帰分析）  
