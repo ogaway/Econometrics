@@ -10,8 +10,8 @@ Pythonによる計量経済学
 ##Contents
 本レポジトリでは秋山裕『Rによる計量経済学』のRコードをPythonに翻訳しながら計量経済のお勉強をします。コード以外の部分に関しては基本扱わないので、計量経済学の考え方や数理的裏付け等は本書または別の書籍にあたるようお願いします。  
 
-・単純回帰分析  
-・自己相関  
+・[単純回帰分析](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/OLS.ipynb)  
+・[自己相関](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/AutoCorrelation.ipynb)  
 ・[不均一分散](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/Heteroscedasticity.ipynb)  
 ・[重回帰分析](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/MultipleRegression.ipynb)  
 ・[多重共線性と変数選択](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/MultiCollinearity.ipynb)  
