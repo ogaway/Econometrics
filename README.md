@@ -15,6 +15,6 @@ Contents
 ・[不均一分散](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/Heteroscedasticity.ipynb)  
 ・[重回帰分析](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/MultipleRegression.ipynb)  
 ・[多重共線性と変数選択](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/MultiCollinearity.ipynb)  
-・構造変化、理論の妥当性のテスト  
+・[構造変化、理論の妥当性のテスト](http://nbviewer.ipython.org/github/ogaway/Econometrics/blob/master/Dummy.ipynb)  
 ・同時方程式体系  
 
